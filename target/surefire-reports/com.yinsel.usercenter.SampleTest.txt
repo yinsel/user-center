@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.yinsel.usercenter.SampleTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.968 s <<< FAILURE! - in com.yinsel.usercenter.SampleTest
+testSelect  Time elapsed: 0.981 s  <<< FAILURE!
+java.lang.AssertionError: expected:<3> but was:<1>
+	at com.yinsel.usercenter.SampleTest.testSelect(SampleTest.java:22)
+

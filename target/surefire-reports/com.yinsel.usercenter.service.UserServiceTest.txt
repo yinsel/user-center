@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.yinsel.usercenter.service.UserServiceTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.061 s <<< FAILURE! - in com.yinsel.usercenter.service.UserServiceTest
+testRegister  Time elapsed: 0.018 s  <<< ERROR!
+com.yinsel.usercenter.exception.BusinessException: 请求参数错误
+	at com.yinsel.usercenter.service.UserServiceTest.testRegister(UserServiceTest.java:28)
+
